@@ -1,5 +1,6 @@
 # React-Tetris 
 
+### [Live Version](https://sagarchoudhary96.github.io/React-Tetris/)
 A Tetris Game Built Using React with Hooks. You can learn it [Here](https://weibenfalk.teachable.com/p/react-tetris-with-hooks).
 
 ## Requirements
