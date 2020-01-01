@@ -10,7 +10,7 @@ A Tetris Game Built Using React with Hooks. You can learn it [Here](https://weib
 * [Styled Components](https://www.styled-components.com/)
 
 ## How to run:
-1. [Download](https://github.com/sagarchoudhary96/React-Tetris/archive/master.zip) or [Clone](git@github.com:sagarchoudhary96/React-Tetris.git) the Repository.
+1. [Download](https://github.com/sagarchoudhary96/React-Tetris/archive/master.zip) or [Clone](https://github.com/sagarchoudhary96/React-Tetris.git) the Repository.
 2. Run `yarn install` to install the project dependencies.
 3. Run `yarn start` to start the app.
 4. App can be seen at: `localhost:3000`
